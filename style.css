@@ -1,0 +1,22 @@
+*{
+	mergine: 0;
+	padding: 0;
+}
+
+div{
+	margin: 0 ;
+	padding: 0 ;
+	height: 400;
+	background-color: red;
+	border-bottom-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+P{
+	font-size: 20;
+}
